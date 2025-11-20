@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm currently completing a Northcoders bootcamp, learning about Data Engineering, AI and Machine Learning!
+
+
+
 <!--
 **izzycrouch/izzycrouch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
